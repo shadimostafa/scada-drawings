@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-38.902081"
-     inkscape:cy="768.26715"
+     inkscape:zoom="1.4"
+     inkscape:cx="153.4108"
+     inkscape:cy="523.702"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,11 +67,12 @@
     <rect
        rx="4.4000001"
        style="display:inline;fill:#008080;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="137.70737"
-       x="35.814117"
+       y="-224.83722"
+       x="-85.52626"
        height="87.12986"
        width="49.712132"
        id="rect4520"
-       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank1&quot;},{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;&quot;,&quot;param&quot;:&quot;$W.Animate( thisobj, 'animate', {'attributeName': 'y', 'from': 0, 'to': 100, 'fill': 'freeze', 'repeatCount': 5, 'dur': 5 } );&quot;,&quot;tag&quot;:&quot;tank1&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank1&quot;},{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;&quot;,&quot;param&quot;:&quot;$W.Animate( thisobj, 'animate', {'attributeName': 'y', 'from': 0, 'to': 100, 'fill': 'freeze', 'repeatCount': 5, 'dur': 5 } );&quot;,&quot;tag&quot;:&quot;tank1&quot;}]}"
+       transform="scale(-1)" />
   </g>
 </svg>
