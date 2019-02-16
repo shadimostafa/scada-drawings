@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="1080"
+   height="720"
+   viewBox="0 0 285.75001 190.50001"
    version="1.1"
    id="svg4876"
    inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
@@ -19,23 +19,22 @@
   <defs
      id="defs4870">
     <marker
-       stroke-linejoin="bevel"
-       fill="violet"
        orient="auto"
        markerHeight="300"
        markerWidth="300"
        refY="150"
        refX="250"
-       vector-effect="non-scaling-stroke"
        viewBox="0 0 8000 8000"
-       id="endArrow">
+       id="endArrow"
+       style="vector-effect:non-scaling-stroke;fill:#ee82ee;stroke-linejoin:bevel">
       <path
          id="path4984"
          stroke="RGB(0,0,0)"
-         d="M2 59l291 89L1 243l120-92z" />
+         d="M 2,59 293,148 1,243 121,151 Z"
+         inkscape:connector-curvature="0" />
     </marker>
     <radialGradient
-       r="75%"
+       r="0.75"
        id="blueGradient">
       <stop
          id="stop4988"
@@ -46,7 +45,7 @@
          offset="100%" />
     </radialGradient>
     <radialGradient
-       r="75%"
+       r="0.75"
        id="greenGradient">
       <stop
          id="stop4993"
@@ -57,7 +56,7 @@
          offset="100%" />
     </radialGradient>
     <radialGradient
-       r="75%"
+       r="0.75"
        id="greyGradient">
       <stop
          id="stop4998"
@@ -68,7 +67,7 @@
          offset="100%" />
     </radialGradient>
     <radialGradient
-       r="75%"
+       r="0.75"
        id="redGradient">
       <stop
          id="stop5003"
@@ -79,7 +78,7 @@
          offset="100%" />
     </radialGradient>
     <radialGradient
-       r="75%"
+       r="0.75"
        id="violetGradient">
       <stop
          id="stop5008"
@@ -90,7 +89,7 @@
          offset="100%" />
     </radialGradient>
     <radialGradient
-       r="75%"
+       r="0.75"
        id="aquaGradient">
       <stop
          id="stop5013"
@@ -101,8 +100,8 @@
          offset="100%" />
     </radialGradient>
     <filter
-       width="150%"
-       height="150%"
+       width="1.5"
+       height="1.5"
        id="drop-shadow">
       <feGaussianBlur
          id="feGaussianBlur5019"
@@ -143,10 +142,10 @@
          operator="atop" />
     </filter>
     <linearGradient
-       y2="72%"
-       x2="82%"
-       y1="24%"
-       x1="84%"
+       y2="0.72000003"
+       x2="0.81999999"
+       y1="0.23999999"
+       x1="0.83999997"
        id="warningMaxTrend">
       <stop
          id="stop5041"
@@ -158,10 +157,10 @@
          offset="100%" />
     </linearGradient>
     <linearGradient
-       y2="72%"
-       x2="82%"
-       y1="24%"
-       x1="84%"
+       y2="0.72000003"
+       x2="0.81999999"
+       y1="0.23999999"
+       x1="0.83999997"
        id="warningMinTrend">
       <stop
          id="stop5046"
@@ -173,10 +172,10 @@
          offset="100%" />
     </linearGradient>
     <linearGradient
-       x2="72%"
-       y2="82%"
-       x1="24%"
-       y1="84%"
+       x2="0.72000003"
+       y2="0.81999999"
+       x1="0.23999999"
+       y1="0.83999997"
        id="warningMaxBar">
       <stop
          id="stop5052"
@@ -188,10 +187,10 @@
          offset="100%" />
     </linearGradient>
     <linearGradient
-       x1="72%"
-       y1="82%"
-       x2="24%"
-       y2="84%"
+       x1="0.72000003"
+       y1="0.81999999"
+       x2="0.23999999"
+       y2="0.83999997"
        id="warningMinBar">
       <stop
          id="stop5057"
@@ -210,9 +209,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="548.83101"
-     inkscape:cy="481.24717"
+     inkscape:zoom="0.35"
+     inkscape:cx="-184.86228"
+     inkscape:cy="357.86335"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -220,7 +219,8 @@
      inkscape:window-height="1141"
      inkscape:window-x="447"
      inkscape:window-y="161"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata4873">
     <rdf:RDF>
@@ -236,28 +236,30 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-106.49998)">
     <path
-       style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.26458332;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.83806431;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        inkscape:connector-curvature="0"
        id="tank1"
-       d="m 127.26898,181.08997 h 22.75417 v -15.16062 l -8.51959,-4.73605 v -2.8575 h -5.68854 v 2.8575 l -8.54604,4.73605 z"
+       d="M 36.085482,240.52347 H 108.15903 V 192.5024 L 81.173337,177.50101 v -9.05109 H 63.154956 v 9.05109 L 36.085482,192.5024 Z"
        inkscape:label="" />
     <rect
-       style="display:inline;fill:#00d400;fill-opacity:1;stroke:none;stroke-width:0.71117789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#00d400;fill-opacity:1;stroke:none;stroke-width:2.25264692;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="tank1-meter-fill"
-       width="2.4722431"
-       height="13.719915"
-       x="145.00961"
-       y="166.41589"
-       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank1-meter-fill&quot;}" />
+       width="7.8307991"
+       height="43.457661"
+       x="-100.10951"
+       y="-237.50116"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank1-meter-fill&quot;}"
+       transform="scale(-1)" />
     <rect
-       y="166.41589"
-       x="145.00961"
-       height="13.719915"
-       width="2.4722431"
+       y="194.04352"
+       x="92.278717"
+       height="43.457661"
+       width="7.8307991"
        id="tank1-meter-stroke"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.83806431;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="" />
   </g>
   <style
