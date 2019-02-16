@@ -663,9 +663,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="460.41496"
-     inkscape:cy="363.86007"
+     inkscape:zoom="3.959798"
+     inkscape:cx="400.29623"
+     inkscape:cy="429.93711"
      inkscape:document-units="mm"
      inkscape:current-layer="tank1-temp-grp"
      showgrid="false"
@@ -737,20 +737,21 @@
          height="26.935204"
          x="43.118881"
          y="196.89992" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.37317955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6718"
+         width="1.5909237"
+         height="25.257341"
+         x="-44.995522"
+         y="-222.56868"
+         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank2-temp&quot;}"
+         transform="scale(-1)" />
       <circle
          r="1.8898809"
          cy="224.23956"
          cx="44.223213"
          id="path5724"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank2-temp&quot;}"
-         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6714"
-         width="1.7008928"
-         height="25.418898"
-         x="43.372078"
-         y="197.14082" />
     </g>
     <path
        inkscape:label=""
