@@ -664,8 +664,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="489.06725"
-     inkscape:cy="367.76991"
+     inkscape:cx="477.46808"
+     inkscape:cy="343.00262"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -744,14 +744,13 @@
          id="path5724"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         y="-222.55972"
-         x="-45.072971"
+         y="197.14082"
+         x="43.372078"
          height="25.418898"
          width="1.7008928"
          id="rect5726"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank2-temp&quot;}"
-         transform="scale(-1)" />
+         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank2-temp&quot;}" />
     </g>
     <path
        inkscape:label=""
