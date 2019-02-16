@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4876"
+   inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
+   sodipodi:docname="substation-tanks.svg">
+  <defs
+     id="defs4870">
+    <marker
+       stroke-linejoin="bevel"
+       fill="violet"
+       orient="auto"
+       markerHeight="300"
+       markerWidth="300"
+       refY="150"
+       refX="250"
+       vector-effect="non-scaling-stroke"
+       viewBox="0 0 8000 8000"
+       id="endArrow">
+      <path
+         id="path4984"
+         stroke="RGB(0,0,0)"
+         d="M2 59l291 89L1 243l120-92z" />
+    </marker>
+    <radialGradient
+       r="75%"
+       id="blueGradient">
+      <stop
+         id="stop4988"
+         stop-color="#00F"
+         offset="0%" />
+      <stop
+         id="stop4990"
+         offset="100%" />
+    </radialGradient>
+    <radialGradient
+       r="75%"
+       id="greenGradient">
+      <stop
+         id="stop4993"
+         stop-color="#00BF00"
+         offset="0%" />
+      <stop
+         id="stop4995"
+         offset="100%" />
+    </radialGradient>
+    <radialGradient
+       r="75%"
+       id="greyGradient">
+      <stop
+         id="stop4998"
+         stop-color="#FFF"
+         offset="0%" />
+      <stop
+         id="stop5000"
+         offset="100%" />
+    </radialGradient>
+    <radialGradient
+       r="75%"
+       id="redGradient">
+      <stop
+         id="stop5003"
+         stop-color="red"
+         offset="0%" />
+      <stop
+         id="stop5005"
+         offset="100%" />
+    </radialGradient>
+    <radialGradient
+       r="75%"
+       id="violetGradient">
+      <stop
+         id="stop5008"
+         stop-color="#DB00DB"
+         offset="0%" />
+      <stop
+         id="stop5010"
+         offset="100%" />
+    </radialGradient>
+    <radialGradient
+       r="75%"
+       id="aquaGradient">
+      <stop
+         id="stop5013"
+         stop-color="#0ff"
+         offset="0%" />
+      <stop
+         id="stop5015"
+         offset="100%" />
+    </radialGradient>
+    <filter
+       width="150%"
+       height="150%"
+       id="drop-shadow">
+      <feGaussianBlur
+         id="feGaussianBlur5019"
+         result="blur"
+         stdDeviation="5"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset5021"
+         result="offsetBlur"
+         dy="5"
+         dx="5"
+         in="blur" />
+      <feMerge
+         id="feMerge5027">
+        <feMergeNode
+           id="feMergeNode5023"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode5025"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       id="pipe3D">
+      <feFlood
+         id="feFlood5031"
+         flood-color="#000" />
+      <feComposite
+         id="feComposite5033"
+         in2="SourceGraphic"
+         operator="out" />
+      <feGaussianBlur
+         id="feGaussianBlur5035"
+         stdDeviation="6" />
+      <feComposite
+         id="feComposite5037"
+         in2="SourceGraphic"
+         operator="atop" />
+    </filter>
+    <linearGradient
+       y2="72%"
+       x2="82%"
+       y1="24%"
+       x1="84%"
+       id="warningMaxTrend">
+      <stop
+         id="stop5041"
+         stop-color="red"
+         offset="0%" />
+      <stop
+         id="stop5043"
+         stop-color="orange"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="72%"
+       x2="82%"
+       y1="24%"
+       x1="84%"
+       id="warningMinTrend">
+      <stop
+         id="stop5046"
+         stop-color="orange"
+         offset="0%" />
+      <stop
+         id="stop5048"
+         stop-color="red"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       x2="72%"
+       y2="82%"
+       x1="24%"
+       y1="84%"
+       id="warningMaxBar">
+      <stop
+         id="stop5052"
+         stop-color="orange"
+         offset="0" />
+      <stop
+         id="stop5054"
+         stop-color="red"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       x1="72%"
+       y1="82%"
+       x2="24%"
+       y2="84%"
+       id="warningMinBar">
+      <stop
+         id="stop5057"
+         stop-color="orange"
+         offset="0" />
+      <stop
+         id="stop5059"
+         stop-color="red"
+         offset="100%" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="548.83101"
+     inkscape:cy="481.24717"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1558"
+     inkscape:window-height="1141"
+     inkscape:window-x="447"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4873">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.26458332;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       inkscape:connector-curvature="0"
+       id="tank1"
+       d="m 127.26898,181.08997 h 22.75417 v -15.16062 l -8.51959,-4.73605 v -2.8575 h -5.68854 v 2.8575 l -8.54604,4.73605 z"
+       inkscape:label="" />
+    <rect
+       style="display:inline;fill:#00d400;fill-opacity:1;stroke:none;stroke-width:0.71117789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="tank1-meter-fill"
+       width="2.4722431"
+       height="13.719915"
+       x="145.00961"
+       y="166.41589"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank1-meter-fill&quot;}" />
+    <rect
+       y="166.41589"
+       x="145.00961"
+       height="13.719915"
+       width="2.4722431"
+       id="tank1-meter-stroke"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="" />
+  </g>
+  <style
+     id="style4982">.grid line{stroke:#d3d3d3;stroke-opacity:.7;shape-rendering:crispEdges}.grid path,.gridVFD path{stroke-width:0}.gridVFD line{stroke:#000;stroke-opacity:.5}.gaugeLine{fill:none;stroke:#000;stroke-width:1}.axisRed line,.axisRed path{stroke:red}.axisPurple line,.axisPurple path{stroke:purple}.chartLineLeft,.chartLineRight2{fill:none;stroke:#9400d3;stroke-width:3}.chartLineRight2{stroke:red}.chartLineCI,.chartLineRight1{fill:none;stroke:#00f;stroke-width:3}.chartLineCI{stroke:purple}.chartLineHZ,.chartLineVAC{fill:none;stroke:red;stroke-width:3}.chartLineHZ{stroke:#00f}.axisred line,.axisred path{stroke:red}.axisBlue line,.axisBlue path{stroke:#00f}.axisDarkViolet line,.axisDarkViolet path{stroke:#9400d3}.ticks-automanual{font:10px sans-serif}.track,.track-inset,.track-overlay{stroke-linecap:round}.track{stroke:#000;stroke-opacity:.3;stroke-width:12px}.track-inset{stroke:#ddd;stroke-width:8px}.track-overlay{pointer-events:stroke;stroke-width:50px;stroke:transparent}.handle{stroke:#000;stroke-opacity:.5;stroke-width:1.25px}</style>
+</svg>
