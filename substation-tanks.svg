@@ -670,9 +670,9 @@
      inkscape:current-layer="tank1-temp-grp"
      showgrid="false"
      inkscape:window-width="1558"
-     inkscape:window-height="1141"
+     inkscape:window-height="1271"
      inkscape:window-x="447"
-     inkscape:window-y="161"
+     inkscape:window-y="31"
      inkscape:window-maximized="0"
      units="px" />
   <metadata
@@ -744,14 +744,13 @@
          id="path5724"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         transform="scale(-1)"
          inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;tank2-temp&quot;}"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6714"
          width="1.7008928"
          height="25.418898"
-         x="-45.072971"
-         y="-222.55972" />
+         x="43.372078"
+         y="197.14082" />
     </g>
     <path
        inkscape:label=""
