@@ -664,7 +664,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="609.38434"
+     inkscape:cx="523.52137"
      inkscape:cy="404.27064"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1482,21 +1482,21 @@
        id="path6708"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;pump1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;red/white|&quot;,&quot;tag&quot;:&quot;pump1&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;red|&quot;,&quot;tag&quot;:&quot;pump1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;white|&quot;,&quot;tag&quot;:&quot;pump1&quot;}]}" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path6710"
        d="m 192.58995,207.26423 -0.15033,8.95354 8.86379,-4.28101 z"
        style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;pump2&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;red/white|&quot;,&quot;tag&quot;:&quot;pump2&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;red|&quot;,&quot;tag&quot;:&quot;pump2&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;white|&quot;,&quot;tag&quot;:&quot;pump2&quot;}]}" />
     <circle
        style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:0.21186584;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6712"
        cx="246.15529"
        cy="207.29759"
        r="4.6410842"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;flow-meter1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;red/white|&quot;,&quot;tag&quot;:&quot;flow-meter1&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;red|&quot;,&quot;tag&quot;:&quot;flow-meter1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;white|&quot;,&quot;tag&quot;:&quot;flow-meter1&quot;}]}" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1510,7 +1510,7 @@
          style="font-size:6.3499999px;stroke-width:0.26458332">to machine</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="30.179966"
        y="204.53549"
        id="text1094"><tspan
@@ -1518,13 +1518,24 @@
          id="tspan1092"
          x="30.179966"
          y="204.53549"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          dy="6.5">Percol® </tspan><tspan
          sodipodi:role="line"
          x="30.179966"
          y="217.76466"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1096">3045</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="202.05576"
+       y="277.75659"
+       id="text1100"><tspan
+         sodipodi:role="line"
+         id="tspan1098"
+         x="202.05576"
+         y="277.75659"
+         style="stroke-width:0.26458332">1</tspan></text>
   </g>
   <style
      id="style4982">.grid line{stroke:#d3d3d3;stroke-opacity:.7;shape-rendering:crispEdges}.grid path,.gridVFD path{stroke-width:0}.gridVFD line{stroke:#000;stroke-opacity:.5}.gaugeLine{fill:none;stroke:#000;stroke-width:1}.axisRed line,.axisRed path{stroke:red}.axisPurple line,.axisPurple path{stroke:purple}.chartLineLeft,.chartLineRight2{fill:none;stroke:#9400d3;stroke-width:3}.chartLineRight2{stroke:red}.chartLineCI,.chartLineRight1{fill:none;stroke:#00f;stroke-width:3}.chartLineCI{stroke:purple}.chartLineHZ,.chartLineVAC{fill:none;stroke:red;stroke-width:3}.chartLineHZ{stroke:#00f}.axisred line,.axisred path{stroke:red}.axisBlue line,.axisBlue path{stroke:#00f}.axisDarkViolet line,.axisDarkViolet path{stroke:#9400d3}.ticks-automanual{font:10px sans-serif}.track,.track-inset,.track-overlay{stroke-linecap:round}.track{stroke:#000;stroke-opacity:.3;stroke-width:12px}.track-inset{stroke:#ddd;stroke-width:8px}.track-overlay{pointer-events:stroke;stroke-width:50px;stroke:transparent}.handle{stroke:#000;stroke-opacity:.5;stroke-width:1.25px}</style>
