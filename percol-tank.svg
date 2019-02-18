@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="979.79254"
-   height="300.17041"
-   viewBox="0 0 259.23678 79.420088"
+   width="1050.7925"
+   height="500.17041"
+   viewBox="0 0 278.02218 132.33676"
    version="1.1"
    id="svg4876"
    inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
@@ -693,17 +693,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-16.534835,-164.13821)">
+     transform="translate(-16.534835,-111.22154)">
     <path
        style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.57282716;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        inkscape:connector-curvature="0"
        id="tank1"
-       d="m 121.97054,216.33359 h 49.26315 v -32.82298 l -18.44505,-10.25364 v -6.18653 h -12.31578 v 6.18653 l -18.50232,10.25364 z"
+       d="M 132.93185,187.98538 H 182.195 V 155.1624 l -18.44505,-10.25364 v -6.18653 h -12.31578 v 6.18653 l -18.50232,10.25364 z"
        inkscape:label="" />
     <g
        id="tank1-meter-grp"
        inkscape:label=""
-       transform="matrix(0.6835122,0,0,0.6835122,97.30566,51.932874)">
+       transform="matrix(0.6835122,0,0,0.6835122,108.26697,23.58466)">
       <rect
          transform="scale(-1)"
          inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;sub1-tank2-level&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
@@ -725,7 +725,7 @@
     <g
        id="tank1-temp-grp"
        inkscape:label=""
-       transform="matrix(0.6835122,0,0,0.6835122,97.30566,51.932874)">
+       transform="matrix(0.6835122,0,0,0.6835122,108.26697,23.58466)">
       <circle
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31152168;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle5730"
@@ -757,14 +757,14 @@
     </g>
     <path
        inkscape:label=""
-       d="M 21.730214,217.62535 H 70.993363 V 184.80236 L 52.548313,174.54873 V 168.3622 H 40.23253 v 6.18653 l -18.502316,10.25363 z"
+       d="m 32.691524,189.27714 h 49.263149 v -32.82299 l -18.44505,-10.25363 v -6.18653 H 51.19384 v 6.18653 l -18.502316,10.25363 z"
        id="path5742"
        inkscape:connector-curvature="0"
        style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.57282716;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
     <g
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
        id="g5748"
-       transform="matrix(0.6835122,0,0,0.6835122,-2.9346537,53.224634)">
+       transform="matrix(0.6835122,0,0,0.6835122,8.0266558,24.87642)">
       <rect
          style="display:inline;fill:#00d400;fill-opacity:1;stroke:none;stroke-width:2.25264692;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect5744"
@@ -786,7 +786,7 @@
     <g
        inkscape:label=""
        id="g5758"
-       transform="matrix(0.6835122,0,0,0.6835122,-2.9346537,53.224634)">
+       transform="matrix(0.6835122,0,0,0.6835122,8.0266558,24.87642)">
       <circle
          r="2.2251549"
          cy="224.23956"
@@ -819,7 +819,7 @@
     <g
        id="domElemG"
        style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       transform="matrix(0.26458333,0,0,0.26458333,47.315119,1.4414635)">
+       transform="matrix(0.26458333,0,0,0.26458333,58.276429,-26.906751)">
       <path
          transform="matrix(0.32511161,0,0,0.6835122,56.992265,592.94747)"
          style="display:inline;fill:#ffe4e1;fill-opacity:0.1;stroke:#dcdcdc;stroke-width:30;stroke-linejoin:round;filter:url(#pipe3D-1)"
@@ -1415,71 +1415,71 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.663807"
-       y="227.56345"
+       x="56.625118"
+       y="199.21523"
        id="text6690"><tspan
          sodipodi:role="line"
          id="tspan6688"
-         x="47.135551"
-         y="227.56345"
+         x="58.096863"
+         y="199.21523"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332">Preparation </tspan><tspan
          sodipodi:role="line"
-         x="45.663807"
-         y="240.79262"
+         x="56.625118"
+         y="212.4444"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
          id="tspan1088">Tank</tspan></text>
     <text
        id="text6694"
-       y="227.41461"
-       x="148.23401"
+       y="199.06639"
+       x="159.19531"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="227.41461"
-         x="148.23401"
+         y="199.06639"
+         x="159.19531"
          id="tspan6692"
          sodipodi:role="line">Storage</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="240.64378"
-         x="148.23401"
+         y="212.29556"
+         x="159.19531"
          sodipodi:role="line"
          id="tspan1090">Tank</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="85.87619"
-       y="222.5387"
+       x="96.837502"
+       y="194.19048"
        id="text6698"><tspan
          sodipodi:role="line"
          id="tspan6696"
-         x="85.87619"
-         y="222.5387"
+         x="96.837502"
+         y="194.19048"
          style="font-size:6.3499999px;stroke-width:0.26458332">pump 1</tspan></text>
     <text
        id="text6702"
-       y="198.15923"
-       x="191.33153"
+       y="169.811"
+       x="202.29283"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:6.3499999px;stroke-width:0.26458332"
-         y="198.15923"
-         x="191.33153"
+         y="169.811"
+         x="202.29283"
          sodipodi:role="line"
          id="tspan6770">feed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="231.39708"
-       y="222.5387"
+       x="242.35838"
+       y="194.19048"
        id="text6706"><tspan
          sodipodi:role="line"
          id="tspan6704"
-         x="231.39708"
-         y="222.5387"
+         x="242.35838"
+         y="194.19048"
          style="font-size:6.3499999px;stroke-width:0.26458332">flow meter</tspan></text>
     <path
        style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 94.041877,204.61838 -0.150339,8.95354 8.863802,-4.28101 z"
+       d="m 105.00319,176.27017 -0.15034,8.95354 8.8638,-4.28101 z"
        id="path6708"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1488,42 +1488,42 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path6710"
-       d="m 194.17746,204.61838 -0.15033,8.95354 8.86379,-4.28101 z"
+       d="m 205.13877,176.27017 -0.15033,8.95354 8.86379,-4.28101 z"
        style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;pump2&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;script: $W.Animate( thisobj, 'animate', {'attributeName': 'fill', 'values': 'red;green;red;',   'dur': 2 , 'repeatCount': 'indefinite'} );&quot;,&quot;tag&quot;:&quot;pump2&quot;}]}" />
     <circle
        style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:0.21186584;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6712"
-       cx="247.74277"
-       cy="204.65179"
+       cx="258.70407"
+       cy="176.30357"
        r="4.6410842"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;sub1-flow-meter1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;script: $W.Animate( thisobj, 'animate', {'attributeName': 'fill', 'values': 'red;green;red;',   'dur': 2 , 'repeatCount': 'indefinite'} );&quot;,&quot;tag&quot;:&quot;sub1-flow-meter1&quot;}]}" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="181.72714"
-       y="223.2605"
+       x="192.68845"
+       y="194.91228"
        id="text6778"><tspan
          sodipodi:role="line"
          id="tspan6776"
-         x="181.72714"
-         y="223.2605"
+         x="192.68845"
+         y="194.91228"
          style="font-size:6.3499999px;stroke-width:0.26458332">to machine</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="31.767467"
-       y="201.88969"
+       x="42.728779"
+       y="173.54147"
        id="text1094"><tspan
          sodipodi:role="line"
          id="tspan1092"
-         x="31.767467"
-         y="201.88969"
+         x="42.728779"
+         y="173.54147"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          dy="6.5">Percol® </tspan><tspan
          sodipodi:role="line"
-         x="31.767467"
-         y="215.11887"
+         x="42.728779"
+         y="186.77065"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1096">3045</tspan></text>
   </g>
