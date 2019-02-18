@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1050.7925"
-   height="500.17041"
-   viewBox="0 0 278.02218 132.33676"
+   width="850"
+   height="340"
+   viewBox="0 0 224.89584 89.958345"
    version="1.1"
    id="svg4876"
    inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
@@ -1374,7 +1374,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1382,17 +1382,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-16.534835,-111.22154)">
+     transform="translate(-16.534835,-153.59995)">
     <path
        style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.57282722;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        inkscape:connector-curvature="0"
        id="tank1-5"
-       d="m 102.75524,194.22698 h 49.26314 V 161.404 l -18.44504,-10.25363 v -6.18653 h -12.31578 v 6.18653 L 102.75524,161.404 Z"
+       d="M 74.218038,218.03948 H 123.48118 V 185.2165 l -18.44504,-10.25363 v -6.18653 H 92.720358 v 6.18653 l -18.50232,10.25363 z"
        inkscape:label="" />
     <g
        id="tank1-meter-grp-9"
        inkscape:label=""
-       transform="matrix(0.6835122,0,0,0.6835122,78.090354,29.826271)">
+       transform="matrix(0.6835122,0,0,0.6835122,49.553152,53.638771)">
       <rect
          transform="scale(-1)"
          inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;80&quot;,&quot;param&quot;:&quot;orange|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;data&quot;:&quot;100&quot;,&quot;param&quot;:&quot;@red|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
@@ -1414,7 +1414,7 @@
     <g
        id="tank1-temp-grp-5"
        inkscape:label=""
-       transform="matrix(0.6835122,0,0,0.6835122,78.090354,29.826271)">
+       transform="matrix(0.6835122,0,0,0.6835122,49.553152,53.638771)">
       <circle
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31152168;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle5730-9"
@@ -1446,19 +1446,19 @@
     </g>
     <path
        inkscape:label=""
-       d="m 52.903325,187.27886 h 49.263155 v -32.823 L 83.721434,144.20224 v -6.18653 H 71.405641 v 6.18653 l -18.502316,10.25362 z"
+       d="m 24.366123,211.09136 h 49.263155 v -32.823 L 55.184232,168.01474 v -6.18653 H 42.868439 v 6.18653 l -18.502316,10.25362 z"
        id="path5742-9"
        inkscape:connector-curvature="0"
        style="display:inline;opacity:1;fill:#008080;stroke:#000000;stroke-width:0.57282722;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="57.637314"
-       y="170.63643"
+       x="29.100111"
+       y="194.44893"
        id="text1094"><tspan
          sodipodi:role="line"
-         x="57.637314"
-         y="170.63643"
+         x="29.100111"
+         y="194.44893"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1096"><tspan
            dy="0"
@@ -1467,7 +1467,7 @@
     <g
        id="domElemG-2"
        style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       transform="matrix(0.26458333,0,0,0.26458333,28.099816,-20.665137)">
+       transform="matrix(0.26458333,0,0,0.26458333,-0.43738642,3.1473632)">
       <g
          class="processElem"
          id="process1550351736514-6"
@@ -1994,135 +1994,135 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="76.836922"
-       y="190.52211"
+       x="48.299721"
+       y="214.33461"
        id="text6690-6"><tspan
          sodipodi:role="line"
          id="tspan6688-6"
-         x="78.063377"
-         y="190.52211"
+         x="49.526176"
+         y="214.33461"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
          dy="4">Preparation </tspan><tspan
          sodipodi:role="line"
-         x="76.836922"
-         y="203.75128"
+         x="48.299721"
+         y="227.56378"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
          id="tspan1088-6">Tank</tspan></text>
     <text
        id="text6694-4"
-       y="197.89966"
-       x="129.01871"
+       y="221.71216"
+       x="100.48149"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="197.89966"
-         x="129.01871"
+         y="221.71216"
+         x="100.48149"
          id="tspan6692-6"
          sodipodi:role="line"
          dy="4">Storage</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="211.12883"
-         x="129.01871"
+         y="234.94133"
+         x="100.48149"
          sodipodi:role="line"
          id="tspan1090-6">Tank</tspan></text>
     <text
        id="text6702-7"
-       y="176.0526"
-       x="172.11623"
+       y="199.8651"
+       x="143.57904"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:6.3499999px;stroke-width:0.26458332"
-         y="176.0526"
-         x="172.11623"
+         y="199.8651"
+         x="143.57904"
          sodipodi:role="line"
          id="tspan6770-8">feed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="212.18178"
-       y="200.43208"
+       x="183.64459"
+       y="224.24458"
        id="text6706-9"><tspan
          sodipodi:role="line"
          id="tspan6704-1"
-         x="212.18178"
-         y="200.43208"
+         x="183.64459"
+         y="224.24458"
          style="font-size:6.3499999px;stroke-width:0.26458332">flow meter</tspan></text>
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path6710-4"
-       d="m 174.96215,182.51177 -0.15033,8.95355 8.86379,-4.28102 z"
+       d="m 146.42495,206.32427 -0.15033,8.95355 8.86379,-4.28102 z"
        style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;sub1-pump2&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;script: $W.Animate( thisobj, 'animate', {'attributeName': 'fill', 'values': 'red;green;red;',   'dur': 2 , 'repeatCount': 'indefinite'} );&quot;,&quot;tag&quot;:&quot;sub1-pump2&quot;}]}" />
     <circle
        style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:0.21186586;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6712-1"
-       cx="228.52748"
-       cy="182.54518"
+       cx="199.9903"
+       cy="206.35768"
        r="4.6410842"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;sub1-flow-meter1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;script: $W.Animate( thisobj, 'animate', {'attributeName': 'fill', 'values': 'red;green;red;',   'dur': 2 , 'repeatCount': 'indefinite'} );&quot;,&quot;tag&quot;:&quot;sub1-flow-meter1&quot;}]}" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="162.51186"
-       y="201.15388"
+       x="133.97467"
+       y="224.96638"
        id="text6778-9"><tspan
          sodipodi:role="line"
          id="tspan6776-7"
-         x="162.51186"
-         y="201.15388"
+         x="133.97467"
+         y="224.96638"
          style="font-size:6.3499999px;stroke-width:0.26458332">to machine</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect3991"
        width="25.513393"
        height="6.9925594"
-       x="215.22281"
-       y="165.32222" />
+       x="186.68562"
+       y="189.13472" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="243.00404"
-       y="170.4249"
+       x="214.46686"
+       y="194.2374"
        id="text4824"><tspan
          sodipodi:role="line"
          id="tspan4822"
-         x="243.00404"
-         y="170.4249"
+         x="214.46686"
+         y="194.2374"
          style="font-size:4.93888903px;stroke-width:0.26458332">L / min</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="219.59247"
-       y="170.76506"
+       x="191.05528"
+       y="194.57756"
        id="text4828"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub1-flow-value&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan4826"
-         x="219.59247"
-         y="170.76506"
+         x="191.05528"
+         y="194.57756"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">%1.0f</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="125.56853"
-       y="168.15704"
+       x="97.031326"
+       y="191.96954"
        id="text4832"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub1-tank2-level&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan4830"
-         x="125.56853"
-         y="168.15704"
+         x="97.031326"
+         y="191.96954"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.26458332">%1.0f</tspan></text>
     <text
        id="text4844"
-       y="168.02907"
-       x="134.77315"
+       y="191.84157"
+       x="106.23593"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.26458332"
-         y="168.02907"
-         x="134.77315"
+         y="191.84157"
+         x="106.23593"
          id="tspan4842"
          sodipodi:role="line">%</tspan></text>
   </g>
