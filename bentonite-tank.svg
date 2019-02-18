@@ -1350,7 +1350,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="686.37378"
+     inkscape:cx="503.87378"
      inkscape:cy="337.35694"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -2053,7 +2053,7 @@
        id="path6710-4"
        d="m 146.42495,206.32427 -0.15033,8.95355 8.86379,-4.28102 z"
        style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;sub1-pump2&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;script: $W.Animate( thisobj, 'animate', {'attributeName': 'fill', 'values': 'red;green;red;',   'dur': 2 , 'repeatCount': 'indefinite'} );&quot;,&quot;tag&quot;:&quot;sub1-pump2&quot;}]}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;green|&quot;,&quot;tag&quot;:&quot;sub2-pump1&quot;},{&quot;data&quot;:&quot;2&quot;,&quot;param&quot;:&quot;script: $W.Animate( thisobj, 'animate', {'attributeName': 'fill', 'values': 'red;green;red;',   'dur': 2 , 'repeatCount': 'indefinite'} );&quot;,&quot;tag&quot;:&quot;sub2-pump1&quot;}]}" />
     <circle
        style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:0.21186586;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6712-1"
@@ -2096,7 +2096,7 @@
        x="191.05528"
        y="194.57756"
        id="text4828"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub1-flow-value&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub2-flow-value&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan4826"
          x="191.05528"
