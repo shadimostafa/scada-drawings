@@ -672,7 +672,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -1555,7 +1555,31 @@
          id="tspan4826"
          x="249.36816"
          y="164.52345"
-         style="font-size:5.64444447px;stroke-width:0.26458332">%5.2f</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332">%1.0fu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="149.20448"
+       y="159.64758"
+       id="text4832"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub1-tank2-level&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan4830"
+         x="149.20448"
+         y="159.64758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332;fill:#ffffff;">%1.0fu%%</tspan></text>
+    <text
+       id="text4836"
+       y="160.9705"
+       x="48.662815"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub1-tank1-level&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.26458332"
+         y="160.9705"
+         x="48.662815"
+         id="tspan4834"
+         sodipodi:role="line">%1.0fu%%</tspan></text>
   </g>
   <style
      id="style4982">.grid line{stroke:#d3d3d3;stroke-opacity:.7;shape-rendering:crispEdges}.grid path,.gridVFD path{stroke-width:0}.gridVFD line{stroke:#000;stroke-opacity:.5}.gaugeLine{fill:none;stroke:#000;stroke-width:1}.axisRed line,.axisRed path{stroke:red}.axisPurple line,.axisPurple path{stroke:purple}.chartLineLeft,.chartLineRight2{fill:none;stroke:#9400d3;stroke-width:3}.chartLineRight2{stroke:red}.chartLineCI,.chartLineRight1{fill:none;stroke:#00f;stroke-width:3}.chartLineCI{stroke:purple}.chartLineHZ,.chartLineVAC{fill:none;stroke:red;stroke-width:3}.chartLineHZ{stroke:#00f}.axisred line,.axisred path{stroke:red}.axisBlue line,.axisBlue path{stroke:#00f}.axisDarkViolet line,.axisDarkViolet path{stroke:#9400d3}.ticks-automanual{font:10px sans-serif}.track,.track-inset,.track-overlay{stroke-linecap:round}.track{stroke:#000;stroke-opacity:.3;stroke-width:12px}.track-inset{stroke:#ddd;stroke-width:8px}.track-overlay{pointer-events:stroke;stroke-width:50px;stroke:transparent}.handle{stroke:#000;stroke-opacity:.5;stroke-width:1.25px}</style>
