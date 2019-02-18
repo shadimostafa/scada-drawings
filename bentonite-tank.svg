@@ -1350,7 +1350,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="503.87378"
+     inkscape:cx="686.37378"
      inkscape:cy="337.35694"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1395,7 +1395,7 @@
        transform="matrix(0.6835122,0,0,0.6835122,49.553152,53.638771)">
       <rect
          transform="scale(-1)"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;@red|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;data&quot;:&quot;30&quot;,&quot;param&quot;:&quot;orange|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;30&quot;,&quot;param&quot;:&quot;orange|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;@red|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;data&quot;:&quot;31&quot;,&quot;param&quot;:&quot;#00d400&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
          y="-237.50116"
          x="-100.10951"
          height="43.457661"
