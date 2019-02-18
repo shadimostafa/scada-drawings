@@ -1395,7 +1395,7 @@
        transform="matrix(0.6835122,0,0,0.6835122,49.553152,53.638771)">
       <rect
          transform="scale(-1)"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;30&quot;,&quot;param&quot;:&quot;@red|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;orange|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;@red|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;},{&quot;data&quot;:&quot;30&quot;,&quot;param&quot;:&quot;orange|&quot;,&quot;tag&quot;:&quot;sub2-tank2-level&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
          y="-237.50116"
          x="-100.10951"
          height="43.457661"
@@ -1453,12 +1453,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="30.423025"
-       y="194.44893"
+       x="29.364691"
+       y="192.33229"
        id="text1094"><tspan
          sodipodi:role="line"
-         x="30.423025"
-         y="194.44893"
+         x="29.364691"
+         y="192.33229"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1096"><tspan
            dy="0"
