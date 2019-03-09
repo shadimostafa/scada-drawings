@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="144.55144"
-     inkscape:cy="217.17217"
+     inkscape:zoom="5.6"
+     inkscape:cx="151.95786"
+     inkscape:cy="216.13889"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -82,7 +82,7 @@
        d="m 46.281694,123.62678 c -0.748856,0.32677 -0.782087,0.52316 -0.758084,4.49936 l 0.01962,3.26151 0.145842,0.29631 c 0.2857,0.58039 0.416087,0.62193 2.064719,0.65747 l 1.420169,0.031 0.259157,0.52292 c 0.255547,0.52171 0.508247,1.0448 0.758088,1.56925 0.739854,1.55057 0.81024,1.69248 0.839086,1.69248 0.01454,0 0.153925,-0.27 0.309465,-0.6 0.803548,-1.70494 1.088321,-2.30287 1.297169,-2.72311 l 0.229385,-0.46154 1.384631,-0.031 c 2.353874,-0.0522 2.228796,0.20516 2.203182,-4.53329 l -0.01846,-3.45628 -0.185541,-0.26676 c -0.10846,-0.15601 -0.29908,-0.32424 -0.459235,-0.40524 l -0.273696,-0.13846 -4.525437,0.003 c -3.590579,0.002 -4.563744,0.0192 -4.710053,0.083"
        id="path4664"
        inkscape:connector-curvature="0"
-       inkscape:label="marker" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#ffcc00ff&quot;,&quot;tag&quot;:&quot;marker1_warning&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#d40000ff&quot;,&quot;tag&quot;:&quot;marker1_locked&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#008000ff&quot;,&quot;tag&quot;:&quot;marker1_unlocked&quot;}]}" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.23077188"
        d="m 53.036089,125.07933 2.016023,8.7e-4 -0.01593,2.87681 -0.01615,2.87704 h -7.999947 l -0.01615,-2.87612 -0.01593,-2.87611 1.893021,-0.0182 c 1.041012,-0.01 1.948176,-0.0108 2.016023,-0.002 0.06761,0.009 1.030166,0.0168 2.139025,0.0173"
