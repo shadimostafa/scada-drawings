@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="116.34226"
+     inkscape:cx="374.43624"
      inkscape:cy="135.17817"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
@@ -122,18 +122,6 @@
            y="49.425194" /></flowRegion><flowPara
          id="flowPara3823">%s</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot3825"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26488649,0,0,0.26488649,55.770716,75.721488)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_warning&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
-         id="flowRegion3827"><rect
-           id="rect3829"
-           width="124.24876"
-           height="48.48732"
-           x="82.832512"
-           y="54.475956" /></flowRegion><flowPara
-         id="flowPara3831">%i</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot3833"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26488649,0,0,0.26488649,14.612457,80.597016)"><flowRegion
@@ -143,18 +131,7 @@
            height="56.438011"
            x="6.795362"
            y="11.169926" /></flowRegion><flowPara
-         id="flowPara3839">warnin</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3841"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26488649,0,0,0.26488649,19.380414,86.424519)"><flowRegion
-         id="flowRegion3843"><rect
-           id="rect3845"
-           width="186.14377"
-           height="47.346638"
-           x="6.795362"
-           y="11.169926" /></flowRegion><flowPara
-         id="flowPara3847">warning</flowPara></flowRoot>    <text
+         id="flowPara3839">warnin</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
        x="20.450724"
@@ -200,6 +177,29 @@
          x="77.974091"
          y="118.2038"
          style="stroke-width:0.2648865">%i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
+       x="20.499123"
+       y="97.435143"
+       id="text3867"><tspan
+         sodipodi:role="line"
+         id="tspan3865"
+         x="20.499123"
+         y="97.435143"
+         style="stroke-width:0.2648865">warning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
+       x="75.887299"
+       y="99.575745"
+       id="text3871"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_warning&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan3869"
+         x="75.887299"
+         y="99.575745"
+         style="stroke-width:0.2648865">%f</tspan></text>
   </g>
   <g
      transform="translate(-16.412457,-78.555803)"
