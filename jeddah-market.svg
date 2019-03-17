@@ -131,76 +131,7 @@
            height="56.438011"
            x="6.795362"
            y="11.169926" /></flowRegion><flowPara
-         id="flowPara3839">warnin</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="20.450724"
-       y="109.14929"
-       id="text3851"><tspan
-         sodipodi:role="line"
-         id="tspan3849"
-         x="20.450724"
-         y="109.14929"
-         style="stroke-width:0.2648865">unlocked</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="20.7183"
-       y="119.58473"
-       id="text3855"><tspan
-         sodipodi:role="line"
-         id="tspan3853"
-         x="20.7183"
-         y="119.58473"
-         style="stroke-width:0.2648865">locked</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="77.444321"
-       y="109.35766"
-       id="text3859"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_unlocked&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-         sodipodi:role="line"
-         id="tspan3857"
-         x="77.444321"
-         y="109.35766"
-         style="stroke-width:0.2648865">%i</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="77.974091"
-       y="118.2038"
-       id="text3863"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_locked&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-         sodipodi:role="line"
-         id="tspan3861"
-         x="77.974091"
-         y="118.2038"
-         style="stroke-width:0.2648865">%i</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="20.499123"
-       y="97.435143"
-       id="text3867"><tspan
-         sodipodi:role="line"
-         id="tspan3865"
-         x="20.499123"
-         y="97.435143"
-         style="stroke-width:0.2648865">warning</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="75.887299"
-       y="99.575745"
-       id="text3871"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_warning&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-         sodipodi:role="line"
-         id="tspan3869"
-         x="75.887299"
-         y="99.575745"
-         style="stroke-width:0.2648865">%f</tspan></text>
-  </g>
+         id="flowPara3839">warnin</flowPara></flowRoot>  </g>
   <g
      transform="translate(-16.412457,-78.555803)"
      style="display:inline;opacity:0.756"
