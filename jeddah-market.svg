@@ -124,7 +124,7 @@
        xml:space="preserve"
        id="flowRoot3825"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26488649,0,0,0.26488649,51.002759,69.893985)"
+       transform="matrix(0.26488649,0,0,0.26488649,55.770716,75.721488)"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_warning&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
          id="flowRegion3827"><rect
            id="rect3829"
@@ -132,7 +132,7 @@
            height="48.48732"
            x="82.832512"
            y="54.475956" /></flowRegion><flowPara
-         id="flowPara3831">%s</flowPara></flowRoot>    <flowRoot
+         id="flowPara3831">%i</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3833"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -147,7 +147,7 @@
        xml:space="preserve"
        id="flowRoot3841"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26488649,0,0,0.26488649,14.612457,80.597016)"><flowRegion
+       transform="matrix(0.26488649,0,0,0.26488649,19.380414,86.424519)"><flowRegion
          id="flowRegion3843"><rect
            id="rect3845"
            width="186.14377"
@@ -157,49 +157,49 @@
          id="flowPara3847">warning</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="15.682761"
-       y="103.32182"
+       x="20.450724"
+       y="109.14929"
        id="text3851"><tspan
          sodipodi:role="line"
          id="tspan3849"
-         x="15.682761"
-         y="103.32182"
+         x="20.450724"
+         y="109.14929"
          style="stroke-width:0.2648865">unlocked</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="15.950336"
-       y="113.75726"
+       x="20.7183"
+       y="119.58473"
        id="text3855"><tspan
          sodipodi:role="line"
          id="tspan3853"
-         x="15.950336"
-         y="113.75726"
+         x="20.7183"
+         y="119.58473"
          style="stroke-width:0.2648865">locked</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="72.676392"
-       y="103.53019"
+       x="77.444321"
+       y="109.35766"
        id="text3859"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_unlocked&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3857"
-         x="72.676392"
-         y="103.53019"
-         style="stroke-width:0.2648865">%s</tspan></text>
+         x="77.444321"
+         y="109.35766"
+         style="stroke-width:0.2648865">%i</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.59545994px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2648865"
-       x="72.676392"
-       y="112.37633"
+       x="77.974091"
+       y="118.2038"
        id="text3863"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;marker1_locked&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3861"
-         x="72.676392"
-         y="112.37633"
-         style="stroke-width:0.2648865">%s</tspan></text>
+         x="77.974091"
+         y="118.2038"
+         style="stroke-width:0.2648865">%i</tspan></text>
   </g>
   <g
      transform="translate(-16.412457,-78.555803)"
