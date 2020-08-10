@@ -15,7 +15,7 @@
    viewBox="0 0 278.02218 132.33676"
    version="1.1"
    id="svg4876"
-   inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
+   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    sodipodi:docname="percol-tank.svg">
   <defs
      id="defs4870">
@@ -660,14 +660,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="568.35686"
-     inkscape:cy="573.01805"
+     inkscape:zoom="2.8"
+     inkscape:cx="270.51785"
+     inkscape:cy="296.44435"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1387"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -685,7 +685,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1529,7 +1529,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1096">3045</tspan></text>
     <rect
-       style="fill:none;stroke-width:0.26458332;stroke:#000000;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect3991"
        width="25.513393"
        height="6.9925594"
@@ -1604,6 +1604,29 @@
          x="164.94975"
          id="tspan4842"
          sodipodi:role="line">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'El Messiri';-inkscape-font-specification:'El Messiri';letter-spacing:0px;word-spacing:0px;fill:#fffe00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.536324"
+       y="172.30977"
+       id="text1148"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sub1-tank1-temp&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan1146"
+         x="40.536324"
+         y="172.30977"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'El Messiri';-inkscape-font-specification:'El Messiri Bold';fill:#fffe00;fill-opacity:1;stroke-width:0.26458332">%1.0f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'El Messiri';-inkscape-font-specification:'El Messiri';letter-spacing:0px;word-spacing:0px;opacity:0.97000002;fill:#fffe00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="51.308647"
+       y="172.30978"
+       id="text1152"><tspan
+         sodipodi:role="line"
+         id="tspan1154"
+         x="51.308647"
+         y="172.30978"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35000038px;font-family:'El Messiri';-inkscape-font-specification:'El Messiri Bold'">c°</tspan></text>
   </g>
   <style
      id="style4982">.grid line{stroke:#d3d3d3;stroke-opacity:.7;shape-rendering:crispEdges}.grid path,.gridVFD path{stroke-width:0}.gridVFD line{stroke:#000;stroke-opacity:.5}.gaugeLine{fill:none;stroke:#000;stroke-width:1}.axisRed line,.axisRed path{stroke:red}.axisPurple line,.axisPurple path{stroke:purple}.chartLineLeft,.chartLineRight2{fill:none;stroke:#9400d3;stroke-width:3}.chartLineRight2{stroke:red}.chartLineCI,.chartLineRight1{fill:none;stroke:#00f;stroke-width:3}.chartLineCI{stroke:purple}.chartLineHZ,.chartLineVAC{fill:none;stroke:red;stroke-width:3}.chartLineHZ{stroke:#00f}.axisred line,.axisred path{stroke:red}.axisBlue line,.axisBlue path{stroke:#00f}.axisDarkViolet line,.axisDarkViolet path{stroke:#9400d3}.ticks-automanual{font:10px sans-serif}.track,.track-inset,.track-overlay{stroke-linecap:round}.track{stroke:#000;stroke-opacity:.3;stroke-width:12px}.track-inset{stroke:#ddd;stroke-width:8px}.track-overlay{pointer-events:stroke;stroke-width:50px;stroke:transparent}.handle{stroke:#000;stroke-opacity:.5;stroke-width:1.25px}</style>
